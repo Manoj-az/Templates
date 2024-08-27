@@ -1,0 +1,380 @@
+div.top
+{
+    height:auto;
+    width:100%;
+}
+div.first
+{
+    height:200px;
+    width:100%;
+}
+.first
+{
+    background-color:black;
+}
+.first p
+{
+    color: brown;
+    text-align:center;
+}
+.first button
+{
+    background-color:gray;
+    color: white;
+    font-weight:bold;
+}
+.first button:hover
+{
+    background-color:white;
+    color:black;
+    font-weight:bold;
+}
+
+
+
+
+/*---------------Second------------------*/
+
+div.second
+{
+    display:flex;
+    height:400px;
+    width:100%;
+    border:1px solid black;
+    margin-top:10px;
+    font-weight:bolder;
+    text-align:center;
+    font-size: 25px;
+}
+
+div.sec-one
+{
+    height:400px;
+    width:33%;
+    border:1px solid black;
+    margin-left:10px;
+}
+
+
+/*-------------------------third---------------------*/
+
+div.tri
+{
+    height:100px;
+    width:100%;
+    border:1px solid black;
+    margin-top:10px;
+}
+
+div.tri-one
+{
+    height:40px;
+    width:100%;
+    border:1px solid black;
+    display:flex;
+    text-align:center;
+    margin: 5px 5px;
+}
+
+div.tri-sub
+{
+    height:40px;
+    width:17%;
+    background-color:red;
+    color:white;
+    padding-top:5px;
+}
+
+div.tri-sub2
+{
+    height:40px;
+    width:17%;
+    background-color:blue;
+    color:white;
+    padding-top:5px;
+}
+
+div.tri-sub3
+{
+    height:40px;
+    width:17%;
+    background-color:greenyellow;
+    color:white;
+    padding-top:5px;
+}
+
+div.tri-sub4
+{
+    height:40px;
+    width:17%;
+    background-color:teal;
+    color:white;
+    padding-top:5px;
+}
+
+div.tri-sub5
+{
+    height:40px;
+    width:17%;
+    background-color:yellow;
+    color:black;
+     padding-top:5px;
+}
+
+div.tri-sub6
+{
+    height:40px;
+    width:15%;
+    background-color:orange;
+    color:black;
+    padding-top:5px;
+}
+
+
+/*---------Fourth-----------*/
+
+div.fur
+{
+    height:100px;
+    width:100%;
+    display:flex;
+    border:1px solid gray;
+}
+
+div.fur1
+{
+    height:100px;
+    width:50%;
+    background-color:#2050e1;
+    color: white;
+    padding-left:10px;
+}
+div.fur2
+{
+    height:100px;
+    width:50%;
+    padding-left:10px;
+}
+
+/*-------------------------Fifth------------*/
+div.fif
+{
+    height:150px;
+    width:100%;
+    display:flex;
+    border:1px solid gray;
+    margin-top:20px;
+}
+
+div.fif1
+{
+    height:150px;
+    width:33%;
+    background-color:green;
+    color: white;
+    padding-left:10px;
+}
+div.fif2
+{
+    height:100px;
+    width:33%;
+    padding-left:10px;
+}
+
+
+/*---------------------Sixth-------------*/
+div.six
+{
+    height:150px;
+    width:100%;
+    display:flex;
+    border:1px solid gray;
+    margin-top:20px;
+}
+
+div.six1
+{
+    height:150px;
+    width:25%;
+    background-color:brown;
+    color: white;
+    padding-left:10px;
+}
+div.six2
+{
+    height:100px;
+    width:25%;
+    padding-left:10px;
+}
+
+
+/*----------------Seven-----------*/
+div.sev
+{
+    height:60px;
+    width:100%;
+    background-color:cadetblue;
+    color:white;
+    font-size:25px;
+    font-weight:bold;
+}
+
+.sev p
+{
+    padding:10px;
+}
+
+/*------------------Eight----------------*/
+div.eig
+{
+    height:80px;
+    width:100%;
+    background-color:cadetblue;
+    color:white;
+    padding:10px;
+}
+
+/*-------------------Nine--------------*/
+div.nin
+{
+    height:500px;
+    width:100%;
+    display:flex;
+    /*border:1px solid black;*/
+}
+
+div.nin1
+{
+    height:500px;
+    width:50%;
+    font-size:25px;
+    border:1px solid black;
+}
+ 
+.nin1 p
+{
+    padding-left:10px;
+}
+
+
+/*--------------------ten---------------*/
+div.ten
+{
+    height:400px;
+    width:100%;
+    display:flex;
+    border:1px solid black;
+}
+
+div.ten1
+{
+    height:400px;
+    width:33%;
+    border:1px solid black;
+    margin-left:10px;
+
+}
+
+.tab1 th
+{
+    background-color: black;
+    color: white;
+}
+
+
+/*------------------------Eleven--------------------*/
+
+div.ele
+{
+    height:500px;
+    width:100%;
+    display:flex;
+    border:1px solid black;
+
+}
+
+div.ele1
+{
+    height:500px;
+    width:50%;
+    border:1px solid black;
+    margin-left:10px;
+}
+
+.ele11 [type]
+{
+    width:100%;
+    border:0px;
+    height:50px;
+}
+
+input[type="checkbox"] 
+{
+    transform: scale(2.0);
+    margin-left:15px;
+}
+
+
+input[type="radio"]
+{
+    transform:scale(1.5);
+    margin-left:15px;
+
+}
+
+div.ele2
+{
+    height:500px;
+    width:50%;
+    border:1px solid black;
+    margin-left:10px;
+}
+
+.ele2 ul
+{
+    list-style-type:none;
+}
+
+div.abcd
+{
+    border:1px solid black;
+}
+div.abcd p
+{
+    margin-bottom:0px;
+    font-size:25px;
+    border-bottom:1px solid gray;
+    padding:10px;
+}
+div.abcd p:hover
+{
+    background-color: gray;
+}
+
+/*-------------12------------------*/
+
+div.twl
+{
+    height:50px;
+    width:100%;
+    background-color: rgb(235, 230, 230);
+}
+
+
+/*----------------13--------------------*/
+
+div.thr
+{
+    height:300px;
+    width:50%;
+    border:1px solid black;
+    margin-left:25%;
+}
+
+footer.foo
+{
+    height:200px;
+    width:100%;
+    background-color: black;
+    color: aliceblue;
+}
